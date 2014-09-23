@@ -1,0 +1,9 @@
+CREATE PROC Laba7
+	@NameOfDepartment NVARCHAR(max) = 'Информационной безопасности'
+AS
+SELECT NameOfDepartment, Name, Surname, MiddleName, COUNT(*) AS NumberOfSubjects
+FROM Professors P
+	JOIN Departments D ON P.IDDepartment=D.IDDepartment
+	JOIN Subjects S ON P.IDProfessor=S.IDProfessor
+WHERE NameOfDepartment = @NameOfDepartment
+GROUP BY NameOfDepartment, Name, Surname, MiddleName, S.IDProfessor

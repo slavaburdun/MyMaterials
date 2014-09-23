@@ -1,0 +1,115 @@
+-- 1 ----------------------------------------------------------------------------------------------------------
+
+ALTER TABLE Professors
+	ADD CONSTRAINT ProfessorInfoCheck
+		CHECK(len(Name)>1),
+		CHECK(len(Surname)>1),
+		CHECK(len(MiddleName)>1);
+
+ALTER TABLE Professors
+	ADD CONSTRAINT DateOfBirthCheck
+		CHECK(DateOfBirth>'1900-01-01'),
+		CHECK(DateOfBirth<'2000-01-01');
+
+ALTER TABLE Positions
+	ADD CONSTRAINT PositionTitleCheck
+		CHECK(len(PositionTitle)>2);
+
+ALTER TABLE Departments
+	ADD CONSTRAINT NameOfDepartmentCheck
+		CHECK(len(NameOfDepartment)>2);
+
+ALTER TABLE DepartmentTypes
+	ADD CONSTRAINT NameOfDepartmentTypeCheck
+		CHECK(len(NameOfDepartmentType)>2);
+
+ALTER TABLE Subjects
+	ADD CONSTRAINT NameOfSubjectCheck
+		CHECK(len(NameOfSubject)>2);
+
+-- 2 --------------------------------------------------------------------------------------------------------
+??? FOREIGN KEY (Position) REFERENCES Positions(Position)
+
+ALTER TABLE Professors
+	ADD CONSTRAINT PositionForeign 
+		FOREIGN KEY (Position) REFERENCES Positions
+		ON DELETE CASCADE;
+
+ALTER TABLE Professors
+	ADD CONSTRAINT DepartmentForeign 
+		FOREIGN KEY (Department) REFERENCES Departments
+		ON DELETE CASCADE;
+
+ALTER TABLE Professors
+	ADD CONSTRAINT SubjectForeign 
+		FOREIGN KEY (Subject) REFERENCES Subjects
+		ON DELETE CASCADE;
+
+ALTER TABLE Departments
+	ADD CONSTRAINT TypeForeign 
+		FOREIGN KEY (Type) REFERENCES DepartmentTypes
+		ON DELETE CASCADE;
+
+-- 3 -----------------------------------------------------------------------------------------------------------
+??? Можно ли как-то отключить все FOREIGN KEY одной командой?
+
+ALTER TABLE Departments
+	NOCHECK CONSTRAINT TypeForeign;
+
+INSERT INTO [dbo].[Departments]
+	([NameOfDepartment],
+	[Type])
+	VALUES ('Information_Security', 2);
+
+ALTER TABLE Departments
+	WITH CHECK
+	CHECK CONSTRAINT TypeForeign;
+
+-- 4 ----------------------------------------------------------------------------------------------------------------
+
+DELETE FROM Departments WHERE Type=2;
+
+ALTER TABLE Departments
+	WITH CHECK
+	CHECK CONSTRAINT TypeForeign;
+
+-- 5 ------------------------------------------------------------------------------------------------------------------
+
+ALTER TABLE Departments
+	NOCHECK CONSTRAINT NameOfDepartmentCheck;
+
+INSERT INTO Departments
+	VALUES  ('Информационной безопасности',1);
+
+INSERT INTO Departments
+	VALUES  ('ИБ',1);
+
+INSERT INTO Departments
+	VALUES  ('И',1);
+
+DELETE FROM Departments
+	WHERE  LEN(NameOfDepartment)<3;
+
+ALTER TABLE Departments
+	WITH CHECK
+	CHECK CONSTRAINT NameOfDepartmentCheck;
+
+-- 6 -----------------------------------------------------------------------------------------------------------------
+
+ALTER TABLE Professors
+	ADD Single NVARCHAR(3)
+	DEFAULT 'так';
+
+ALTER TABLE Professors
+	DROP CONSTRAINT DF__Professor__Singl__5812160E;	
+	
+ALTER TABLE Professors
+	DROP COLUMN Single;
+
+-- 7 -----------------------------------------------------------------------------------------------------------------
+
+EXEC SP_RENAME Departments, Depts
+
+-- 8 ----------------------------------------------------------------------------------------------------------------
+
+EXEC SP_RENAME Depts, Departments

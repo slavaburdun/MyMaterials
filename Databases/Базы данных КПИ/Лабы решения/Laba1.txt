@@ -1,0 +1,28 @@
+CREATE TABLE Professors
+	(ID_Professor INT PRIMARY KEY IDENTITY,
+	Name NVARCHAR(64) NOT NULL,
+	Surname NVARCHAR (64) NOT NULL,
+	MiddleName NVARCHAR(64) NOT NULL,
+	Sex BIT NOT NULL,
+	DateOfBirth DATE,
+	Address NVARCHAR(max),
+	ID_Position INT NOT NULL,
+	ID_Department INT NOT NULL)
+
+CREATE TABLE Positions
+	(ID_Position INT PRIMARY KEY IDENTITY,
+	PositionTitle NVARCHAR(max) NOT NULL)
+
+CREATE TABLE Departments
+	(ID_Department INT PRIMARY KEY IDENTITY,
+	NameOfDepartment NVARCHAR(max) NOT NULL,
+	ID_DepartmentType INT NOT NULL)
+
+CREATE TABLE DepartmentTypes
+	(ID_DepartmentType INT PRIMARY KEY IDENTITY,
+	NameOfDepartmentType NVARCHAR(max) NOT NULL)
+
+CREATE TABLE Subjects
+	(ID_Subject INT PRIMARY KEY IDENTITY,
+	ID_Professor INT NOT NULL,
+	NameOfSubject NVARCHAR(64) NOT NULL)

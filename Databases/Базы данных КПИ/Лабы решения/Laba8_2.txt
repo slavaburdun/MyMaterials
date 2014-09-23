@@ -1,0 +1,10 @@
+CREATE VIEW V_Subjects
+AS
+SELECT P.ID_Professor [Код сотрудника], Surname [Фамилия], NameOfSubject [Предмет]
+FROM Professors P JOIN Subjects S ON P.ID_Professor=S.ID_Professor
+
+
+
+
+
+

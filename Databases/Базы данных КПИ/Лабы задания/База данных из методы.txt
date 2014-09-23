@@ -1,0 +1,56 @@
+CREATE TABLE Subject
+	(IDSubject INT IDENTITY
+		CONSTRAINT SubjectPrimary PRIMARY KEY,
+	NameSubject VARCHAR(35) NOT NULL )
+
+
+CREATE TABLE Student
+	(NRecordBook  VARCHAR(6)
+		CONSTRAINT StudentPrimary PRIMARY KEY,
+	StName VARCHAR(35),
+	IDGroup INT)
+
+	
+CREATE TABLE Progress
+	(NRecordBook VARCHAR(6)
+		CONSTRAINT ProgressStudentForeign FOREIGN KEY REFERENCES Student,
+	IDSubject INT,
+	NTerm VARCHAR(2),
+	Mark SMALLINT
+		CONSTRAINT ProgressMarkCheck CHECK(Mark BETWEEN 2 AND 5 ),
+	CONSTRAINT ProgressPrimary PRIMARY KEY (NRecordBook,IDSubject,NTerm),
+	CONSTRAINT ProgressSubjectForeign FOREIGN KEY (IDSubject) REFERENCES Subject ON DELETE CASCADE)
+
+	
+-----------------------------------------------------------------------------------------------------------
+
+
+INSERT INTO Subject VALUES ('Math');
+INSERT INTO Subject VALUES ('Physics');
+INSERT INTO Subject VALUES ('Informatics');
+INSERT INTO Subject VALUES ('Literature');
+
+INSERT INTO Student VALUES (1,'Avraam',1);
+INSERT INTO Student VALUES (2,'Bob',1);
+INSERT INTO Student VALUES (3,'Cris',1);
+INSERT INTO Student VALUES (4,'Den',2);
+
+INSERT INTO Progress VALUES (1,1,1,5);
+INSERT INTO Progress VALUES (1,2,1,5);
+INSERT INTO Progress VALUES (1,3,1,5);
+INSERT INTO Progress VALUES (1,4,1,5);
+
+INSERT INTO Progress VALUES (2,1,1,5);
+INSERT INTO Progress VALUES (2,2,1,5);
+INSERT INTO Progress VALUES (2,3,1,4);
+INSERT INTO Progress VALUES (2,4,1,4);
+
+INSERT INTO Progress VALUES (3,1,1,2);
+INSERT INTO Progress VALUES (3,2,1,2);
+INSERT INTO Progress VALUES (3,3,1,2);
+INSERT INTO Progress VALUES (3,4,1,3);
+
+INSERT INTO Progress VALUES (4,1,1,5);
+INSERT INTO Progress VALUES (4,2,1,5);
+INSERT INTO Progress VALUES (4,3,1,5);
+INSERT INTO Progress VALUES (4,4,1,5);

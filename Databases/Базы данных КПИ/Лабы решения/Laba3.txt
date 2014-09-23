@@ -1,0 +1,45 @@
+DELETE FROM Subjects;
+INSERT INTO Subjects VALUES ('Математический анализ');
+INSERT INTO Subjects VALUES ('Теория вероятностей');
+INSERT INTO Subjects VALUES ('Общая физика');
+INSERT INTO Subjects VALUES ('Интеллектуальные системы');
+INSERT INTO Subjects VALUES ('Программирование');
+INSERT INTO Subjects VALUES ('Алгебра и геометрия');
+INSERT INTO Subjects VALUES ('Дискретная математика');
+INSERT INTO Subjects VALUES ('Базы данных');
+INSERT INTO Subjects VALUES ('Прикладная алгебра');
+INSERT INTO Subjects VALUES ('Квантовая информатика');
+---------------------------------------------------------------------------------------------
+DELETE FROM Positions;
+INSERT INTO Positions VALUES ('Аспирант');
+INSERT INTO Positions VALUES ('Ассистент');
+INSERT INTO Positions VALUES ('Докторант');
+INSERT INTO Positions VALUES ('Доцент');
+INSERT INTO Positions VALUES ('Младший научный сотрудник');
+INSERT INTO Positions VALUES ('Научный сотрудник');
+INSERT INTO Positions VALUES ('Преподаватель');
+INSERT INTO Positions VALUES ('Профессор');
+INSERT INTO Positions VALUES ('Старший преподаватель');
+INSERT INTO Positions VALUES ('Старший научный сотрудник');
+---------------------------------------------------------------------------------------------
+DELETE FROM DepartmentTypes;
+INSERT INTO DepartmentTypes VALUES ('Кафедра');
+---------------------------------------------------------------------------------------------
+DELETE FROM Departments;
+INSERT INTO Departments VALUES ('Информационной безопасности',2);
+INSERT INTO Departments VALUES ('Математических методов защиты информации',2);
+INSERT INTO Departments VALUES ('Физико-технических средств зациты информации',2);
+INSERT INTO Departments VALUES ('Прикладной физики',2);
+INSERT INTO Departments VALUES ('Физики энергетических систем',2);
+---------------------------------------------------------------------------------------------
+DELETE FROM Professors;
+INSERT INTO Professors VALUES ('Кадобъянский','Роман','Николаевич',1,'1980-01-01','Киев',14,13,11);
+INSERT INTO Professors VALUES ('Дороговцев','Андрей','Анатольевич',1,'1980-01-01','Киев',18,14,12);
+INSERT INTO Professors VALUES ('Кравцов','Олег','Васильевич',1,'1980-01-01','Киев',14,13,13);
+INSERT INTO Professors VALUES ('Куссуль','Наталья','Николаевна',0,'1980-01-01','Киев',18,13,14);
+INSERT INTO Professors VALUES ('Лавренюк','Алла','Николаевна',0,'1980-01-01','Киев',14,13,15);
+INSERT INTO Professors VALUES ('Шумская','Алла','Антоновна',0,'1980-01-01','Киев',14,14,16);
+INSERT INTO Professors VALUES ('Мороховец','Марина','Константиновна',0,'1980-01-01','Киев',14,14,17);
+INSERT INTO Professors VALUES ('Коломицев','Михаил','Владимирович',1,'1980-01-01','Киев',14,13,18);
+INSERT INTO Professors VALUES ('Ковальчук','Людмила','Васильевна',0,'1980-01-01','Киев',14,14,19);
+INSERT INTO Professors VALUES ('Гомонай','Елена','Васильевна',0,'1980-01-01','Киев',18,16,20);

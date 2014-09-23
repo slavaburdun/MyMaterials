@@ -1,0 +1,21 @@
+CREATE VIEW V_ProfessorsFull
+AS
+SELECT NameOfDepartment [Кафедра], Name [Фамилия], Surname [Имя], MiddleName [Отчество], NameOfSubject [Предмет]
+FROM Professors P
+	JOIN Departments D ON P.IDDepartment=D.IDDepartment
+	JOIN Subjects S ON P.IDProfessor=S.IDProfessor
+	
+	
+SELECT [Фамилия], [Имя], [Отчество], [Предмет]
+FROM V_ProfessorsFull
+WHERE [Фамилия]='Кадобъянский' OR [Фамилия]='Дороговцев'
+
+
+SELECT DISTINCT [Кафедра], [Фамилия], [Имя], [Отчество]
+FROM V_ProfessorsFull
+WHERE [Кафедра]='Информационной безопасности' OR [Кафедра]='Прикладной физики'
+
+
+SELECT DISTINCT [Кафедра], [Предмет]
+FROM V_ProfessorsFull
+WHERE [Кафедра]='Информационной безопасности' OR [Кафедра]='Прикладной физики'

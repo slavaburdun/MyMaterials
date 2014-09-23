@@ -1,0 +1,58 @@
+ALTER TRIGGER [dbo].[InsertIntoProfessors]
+ON [dbo].[Professors]
+FOR INSERT
+AS
+
+DECLARE @ID_Professor int
+SELECT @ID_Professor=[i].ID_Professor
+from inserted i
+
+DECLARE @Name NVARCHAR(64)
+SELECT @Name=[i].Name
+from inserted i
+
+DECLARE @Surname NVARCHAR(64)
+SELECT @Surname=[i].Surname
+from inserted i
+
+DECLARE @MiddleName NVARCHAR(64)
+SELECT @MiddleName=[i].MiddleName
+from inserted i
+
+DECLARE @Sex BIT
+SELECT @Sex=[i].Sex
+from inserted i
+
+DECLARE @DateOfBirth DATE
+SELECT @DateOfBirth=[i].DateOfBirth
+from inserted i
+
+DECLARE @Address NVARCHAR(max)
+SELECT @Address=[i].Address
+from inserted i
+
+DECLARE @ID_Position int
+SELECT @ID_Position=[i].ID_Position
+from inserted i
+
+DECLARE @ID_Department int
+SELECT @ID_Department=[i].ID_Department
+from inserted i
+
+DECLARE @flag int
+set @flag = 
+	(SELECT count(*)
+	FROM Professors P
+	WHERE P.Name=@Name
+		AND P.Surname=@Surname
+		AND P.MiddleName=@MiddleName
+		AND P.Sex=@Sex
+		AND P.DateOfBirth=@DateOfBirth
+		AND P.[Address]=@Address
+		AND P.ID_Position=@ID_Position
+		AND P.ID_Department=@ID_Department)
+if @flag > 1
+BEGIN
+	RAISERROR('This Professor already has existed.', 16, 1)
+	ROLLBACK TRAN;
+END

@@ -1,0 +1,27 @@
+CREATE PROCEDURE TaskToLaba7
+	@NameOfDepartment NVARCHAR(max)
+	@IDDepartmentType int
+AS
+
+IF (@NameOfDepartment = NULL) OR (@IDDepartmentType = NULL)
+	BEGIN
+		RAISERROR('Incorrect input parameters.', 16, 1)
+		ROLLBACK TRAN	
+	END
+ELSE
+BEGIN
+	IF EXISTS
+			(SELECT *
+			FROM Departments
+			WHERE NameOfDepartment = @NameOfDepartment
+				AND IDDepartmentType = @IDDepartmentType
+			)
+	BEGIN
+		RAISERROR('Department with such parameters already exists.', 16, 1)
+		ROLLBACK TRAN
+	END
+	ELSE
+	BEGIN
+		INSERT INTO Departments VALUES(@NameOfDepartment,@IDDepartmentType)
+	END	
+END

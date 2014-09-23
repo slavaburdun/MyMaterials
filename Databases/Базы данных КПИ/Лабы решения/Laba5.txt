@@ -1,0 +1,46 @@
+SELECT Name, Surname, MiddleName, COUNT(*) AS NumberOfSubjects
+FROM Subjects S JOIN Professors P ON S.IDProfessor=P.IDProfessor
+GROUP BY Name, Surname, MiddleName, S.IDProfessor
+
+
+SELECT Name, Surname, MiddleName, COUNT(*) AS NumberOfSubjects
+FROM Subjects S
+	JOIN Professors P
+	ON S.IDProfessor=P.IDProfessor
+GROUP BY Name, Surname, MiddleName
+HAVING COUNT(*) > 
+	(SELECT AVG(Number)
+	 FROM
+		(SELECT COUNT(*) AS Number
+		 FROM Subjects
+		 GROUP BY IDProfessor) Num
+	)
+	
+
+SELECT Name, Surname, MiddleName, COUNT(*) AS NumberOfSubjects
+FROM Subjects S
+	JOIN Professors P
+	ON S.IDProfessor=P.IDProfessor
+GROUP BY Name, Surname, MiddleName
+HAVING COUNT(*) =
+	(SELECT MAX(Number)
+	 FROM
+		(SELECT COUNT(*) AS Number
+		 FROM Subjects
+		 GROUP BY IDProfessor) Num
+	)
+	
+	
+SELECT NameOfDepartment, Name, Surname, MiddleName, PositionTitle, COUNT(*) AS NumberOfSubjects
+FROM Subjects S
+	JOIN Professors P ON S.IDProfessor=P.IDProfessor
+	JOIN Departments D ON D.IDDepartment=P.IDDepartment
+	JOIN Positions Pos ON Pos.IDPosition=P.IDPosition
+GROUP BY Name, Surname, MiddleName, NameOfDepartment, PositionTitle
+HAVING COUNT(*) =
+	(SELECT MAX(Number)
+	 FROM
+		(SELECT COUNT(*) AS Number
+		 FROM Subjects
+		 GROUP BY IDProfessor) Num
+	)
