@@ -1,0 +1,143 @@
+<project name="beerV2_strutsV1.3" default="webapp" basedir=".">
+
+
+  <!-- =================== Initialize Property Values ===================== -->
+  <property file="build.properties"/>
+
+
+  <!-- =================== Help: High-Level Targets Documentation ========= -->
+  <target name="help">
+    <echo>
+Build structure of the Web Application
+Toplevel targets:
+
+   help     -- this message
+
+   all      -- cleans and then builds/deploys this Web app.
+
+   webapp   -- (re)builds and deploys this Web app. to Tomcat
+     * deployWebapp -- Deploys the WAR file to Tomcat
+     * undeployWebapp -- Undeploys the WAR file
+     * deployStaticFiles -- Copies the webapp files to the deployment area
+     * buildWebapp -- Builds the WAR file from the webapp build area
+     * compileWebapp -- Compiles the source code into the webapp build area
+     * staticWebapp -- Copies the webapp files into the webapp build area
+     * prepareWebapp -- Creates the webapp build area
+
+   clean    -- Cleans the whole build structure
+     * cleanWebapp -- Cleans only the webapp part of the build structure
+     * cleanTmpFiles -- Cleans the build area of temporary files
+    </echo>
+  </target>
+
+
+  <!-- =================== Convenient Synonyms ============================ -->
+  <target name="all" depends="clean,webapp" />
+  <target name="webapp" depends="deployWebapp" />
+
+
+  <!-- =================== CLEAN: All ===================================== -->
+  <target name="clean" depends="cleanWebapp,cleanTmpFiles" >
+    <delete dir="${build.dir}" />
+  </target>
+  <!-- =================== CLEAN: WebApp Directory ======================== -->
+  <target name="cleanWebapp">
+    <delete dir="${webapp.build.dir}" />
+  </target>
+  <!-- =================== CLEAN: Backup Files ============================ -->
+  <target name="cleanTmpFiles">
+    <delete>
+      <fileset dir="." defaultExcludes="no" includes="**/*~"/>
+    </delete>
+  </target>
+
+
+  <!-- =================== WEBAPP: Deploy to Tomcat ======================== -->
+  <target name="deployWebapp" depends="undeployWebapp,buildWebapp" >
+
+    <!-- Copy the newly built WAR file into the deployment directory -->
+    <copy file="${build.dir}/${webapp.name}.war" todir="${tomcat.deployment.dir}" />
+
+  </target>
+
+  <!-- =================== WEBAPP: Undeploy  ======================== -->
+  <target name="undeployWebapp" >
+
+    <!-- Delete the deployment directory -->
+    <delete dir="${tomcat.deployment.dir}/${webapp.name}" />
+    <delete file="${tomcat.deployment.dir}/${webapp.name}.war" />
+
+  </target>
+
+  <!-- =================== WEBAPP: Build WAR File ========================= -->
+  <target name="buildWebapp" depends="compileWebapp">
+    <jar jarfile="${build.dir}/${webapp.name}.war" basedir="${webapp.build.dir}" />
+  </target>
+
+  <!-- =================== WEBAPP: Compile Web Components ================= -->
+  <target name="compileWebapp" depends="staticWebapp">
+    <javac   srcdir="src"
+             destdir="${webapp.build.dir}/WEB-INF/classes/"
+             deprecation="on" debug="on" optimize="off">
+
+      <classpath>
+
+	<!-- Include all JAR files in my local library -->
+        <fileset dir="lib">
+          <include name="*.jar"/>
+        </fileset>
+
+	<!-- Include all common libraries in Tomcat -->
+        <fileset dir="${tomcat.home}/common/lib">
+          <include name="*.jar"/>
+        </fileset>
+
+      </classpath>
+
+    </javac>
+  </target>
+
+  <!-- =================== WEBAPP: Copy Static Web Files ================== -->
+  <target name="staticWebapp" depends="prepareWebapp">
+
+    <!-- Copy web files to the Tomcat webapp -->
+    <copy todir="${webapp.build.dir}/">
+      <fileset dir="web" />
+    </copy>
+
+    <!-- Copy webapp configuration files -->
+    <copy todir="${webapp.build.dir}/WEB-INF/">
+      <fileset dir="etc" />
+    </copy>
+
+    <!-- Copy library files -->
+    <copy todir="${webapp.build.dir}/WEB-INF/lib/">
+      <fileset dir="lib" />
+    </copy>
+
+  </target>
+
+  <!-- =================== WEBAPP: Create WebApp Directories ============== -->
+  <target name="prepareWebapp">
+    <mkdir dir="${webapp.build.dir}" />
+    <mkdir dir="${webapp.build.dir}/WEB-INF" />
+    <mkdir dir="${webapp.build.dir}/WEB-INF/lib" />
+    <mkdir dir="${webapp.build.dir}/WEB-INF/classes" />
+  </target>
+
+  <!-- =================== WEBAPP: Send Static Web Files to Deployment area -->
+  <target name="deployStaticFiles" >
+
+    <!-- Copy web files to the Tomcat webapp -->
+    <copy todir="${tomcat.deployment.dir}/${webapp.name}/">
+      <fileset dir="web" />
+    </copy>
+
+    <!-- Copy hidden JSP pages -->
+    <copy todir="${tomcat.deployment.dir}/${webapp.name}/WEB-INF/web">
+      <fileset dir="etc/web" />
+    </copy>
+
+  </target>
+
+</project>

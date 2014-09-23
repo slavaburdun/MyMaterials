@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Projects/beerV2_strutsV1.3/lib/struts-core-1.3.8.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/ant.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/commons-el.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/naming-common.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/naming-java.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="/Users/bryan/Work/MyBusiness/HeadFirst/Books/HF-SCWCD/Jakarta/tomcat/common/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

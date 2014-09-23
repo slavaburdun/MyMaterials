@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+	version="2.4">	<!-- Define the controller servlet -->	<servlet>		<servlet-name>FrontController</servlet-name>		<servlet-class>			org.apache.struts.action.ActionServlet		</servlet-class>		<!-- Name the struts configuration file -->		<init-param>			<param-name>config</param-name>			<param-value>/WEB-INF/struts-config.xml</param-value>		</init-param>		<!-- Guarantee that this servlet is loaded on startup. -->		<load-on-startup>1</load-on-startup>	</servlet>	<!-- END: Define the controller servlet -->	<!-- The Struts controller mapping -->	<servlet-mapping>		<servlet-name>FrontController</servlet-name>		<url-pattern>*.do</url-pattern>	</servlet-mapping>	<!-- END: The Struts controller mapping --></web-app>

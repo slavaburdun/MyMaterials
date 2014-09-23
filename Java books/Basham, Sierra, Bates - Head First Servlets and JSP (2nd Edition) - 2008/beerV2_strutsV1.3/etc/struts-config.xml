@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://struts.apache.org/dtds/struts-config_1_3.dtd">
+
+<struts-config>
+
+  <form-beans>
+    <form-bean name="selectBeerForm"
+               type="com.example.web.BeerSelectForm" />
+  </form-beans>
+
+  <action-mappings>
+    <action path="/select/SelectBeer"
+	    type="com.example.web.BeerSelectAction"
+	    name="selectBeerForm" scope="request"
+	    validate="true" input="/select/form.jsp">
+	<forward name="show_results"
+		 path="/select/result.jsp" />
+    </action>
+  </action-mappings>
+
+  <message-resources parameter="ApplicationResources" /> 
+
+</struts-config>
