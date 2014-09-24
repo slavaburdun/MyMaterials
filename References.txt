@@ -1,2 +1,7 @@
 http://javatalks.ru/topics/18021
 http://www.youtube.com/channel/UCdXqgQdGW5go6nkkBbUVSMA
+
+DAO:
+На русском:
+http://javatutor.net/articles/j2ee-pattern-data-access-object
+http://www.dokwork.ru/2014/02/daotalk.html
