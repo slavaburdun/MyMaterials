@@ -1,0 +1,147 @@
+èþë 30, 2012 12:05:36 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: handlers.AuthorizationHandlers.handleRequest
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 12:05:59 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: handlers.AuthorizationHandlers.handleRequest
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 12:06:01 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: handlers.AuthorizationHandlers.handleRequest
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 12:06:24 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: handlers.AuthorizationHandlers.handleRequest
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:19:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: EncodingFilter:Initializing filter
+èþë 30, 2012 1:19:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: EncodingFilter:Initializing filter
+èþë 30, 2012 1:19:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: EncodingFilter:Initializing filter
+èþë 30, 2012 1:26:04 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:20 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 30, 2012 1:26:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 30, 2012 1:26:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 30, 2012 1:26:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 30, 2012 2:03:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 30, 2012 2:03:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

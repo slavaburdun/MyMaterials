@@ -1,0 +1,965 @@
+èþë 30, 2012 12:00:42 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:00:42 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[2-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:00:48 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:00:48 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[7-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:00:54 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:00:54 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[8-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:01:01 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:01:01 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[9-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:01:07 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:01:07 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[10-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:01:14 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:01:14 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[11-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:01:24 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:01:24 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[12-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:01:37 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:01:37 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[13-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:06:20 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:06:20 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[14-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:08:47 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:08:47 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[15-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 12:08:52 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 12:08:52 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[16-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:19:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[17-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:19:31 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 1:19:31 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[18-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:19:33 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Hotel]
+èþë 30, 2012 1:19:33 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[19-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:19:45 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 1:19:45 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[20-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:19:45 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@7f971ab2]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:19:46 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:19:46 AM org.apache.catalina.core.NamingContextListener addResource
+WARNING: Failed to register in JMX: javax.naming.NamingException: Data source rejected establishment of connection,  message from server: "Too many connections"
+èþë 30, 2012 1:25:25 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 1:25:25 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@35185da7]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:26 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:27 AM org.apache.catalina.core.NamingContextListener addResource
+WARNING: Failed to register in JMX: javax.naming.NamingException: Data source rejected establishment of connection,  message from server: "Too many connections"
+èþë 30, 2012 1:25:33 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 1:25:33 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@6b0da8fd]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:34 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:34 AM org.apache.catalina.core.NamingContextListener addResource
+WARNING: Failed to register in JMX: javax.naming.NamingException: Data source rejected establishment of connection,  message from server: "Too many connections"
+èþë 30, 2012 1:25:35 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/Hotel] has started
+èþë 30, 2012 1:25:35 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@4ac80abe]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:36 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:943)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:25:36 AM org.apache.catalina.core.NamingContextListener addResource
+WARNING: Failed to register in JMX: javax.naming.NamingException: Data source rejected establishment of connection,  message from server: "Too many connections"
+èþë 30, 2012 1:26:03 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@3a05f913]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at DAO.ConnectionPool.getInstance(ConnectionPool.java:25)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:04 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at DAO.ConnectionPool.getInstance(ConnectionPool.java:25)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:09 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@5397d562]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1276)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:378)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:10 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1028)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:637)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:238)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4612)
+	at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1276)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:378)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:563)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:10 AM org.apache.catalina.core.NamingContextListener addResource
+WARNING: Failed to register in JMX: javax.naming.NamingException: Data source rejected establishment of connection,  message from server: "Too many connections"
+èþë 30, 2012 1:26:19 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@5a59f6a5]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:658)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at DAO.ConnectionPool.getInstance(ConnectionPool.java:25)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:20 AM org.apache.naming.NamingContext lookup
+WARNING: Unexpected exception resolving reference
+com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1014)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:988)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:974)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1104)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2397)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2430)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2215)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:813)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:399)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:334)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:267)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:176)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:653)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:595)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:458)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:130)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:99)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:499)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:222)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:140)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:793)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:140)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:781)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:153)
+	at DAO.ConnectionPool.getInstance(ConnectionPool.java:25)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.ManagerDAO.getManagerByLogin(ManagerDAO.java:98)
+	at handlers.AuthorizationHandlers.handleRequest(AuthorizationHandlers.java:48)
+	at servlets.Authorization.doGet(Authorization.java:24)
+	at servlets.Authorization.doPost(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:26:28 AM org.apache.coyote.http11.Http11AprProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 1:26:28 AM org.apache.coyote.ajp.AjpAprProtocol pause
+INFO: Pausing Coyote AJP/1.3 on ajp-8009
+èþë 30, 2012 1:26:29 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[6-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/manager] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[3-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/docs] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[4-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/examples] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[5-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/host-manager] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[1-1612487865]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/host-manager] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 1:26:29 AM org.apache.coyote.http11.Http11AprProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 1:26:29 AM org.apache.coyote.ajp.AjpAprProtocol destroy
+INFO: Stopping Coyote AJP/1.3 on ajp-8009
+èþë 30, 2012 1:26:34 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.22.
+èþë 30, 2012 1:26:34 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [false], sendfile [true], accept filters [false], random [true].
+èþë 30, 2012 1:26:34 AM org.apache.catalina.startup.SetAllPropertiesRule begin
+WARNING: [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'minSpareThreads' to '25' did not find a matching property.
+èþë 30, 2012 1:26:34 AM org.apache.catalina.startup.SetAllPropertiesRule begin
+WARNING: [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'maxSpareThreads' to '75' did not find a matching property.
+èþë 30, 2012 1:26:35 AM org.apache.coyote.http11.Http11AprProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 1:26:35 AM org.apache.coyote.ajp.AjpAprProtocol init
+INFO: Initializing Coyote AJP/1.3 on ajp-8009
+èþë 30, 2012 1:26:35 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2279 ms
+èþë 30, 2012 1:26:35 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+èþë 30, 2012 1:26:35 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+èþë 30, 2012 1:26:35 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor host-manager.xml
+èþë 30, 2012 1:26:36 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor Hotel.xml
+èþë 30, 2012 1:26:37 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor manager.xml
+èþë 30, 2012 1:26:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+èþë 30, 2012 1:26:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+èþë 30, 2012 1:26:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+èþë 30, 2012 1:26:38 AM org.apache.coyote.http11.Http11AprProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 1:26:38 AM org.apache.coyote.ajp.AjpAprProtocol start
+INFO: Starting Coyote AJP/1.3 on ajp-8009
+èþë 30, 2012 1:26:38 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2594 ms
+èþë 30, 2012 1:30:37 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@198f4f91]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:721)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:579)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getConnection(ConnectionPool.java:174)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:111)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.BillDAO.checkBillForApplicationId(BillDAO.java:181)
+	at handlers.ManagerSetRoom.handleRequest(ManagerSetRoom.java:32)
+	at servlets.ManagerView.processRequest(ManagerView.java:39)
+	at servlets.ManagerView.doGet(ManagerView.java:50)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:30:37 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@65212f0f]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:721)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:579)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getConnection(ConnectionPool.java:174)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:111)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.BillDAO.checkBillForRoomId(BillDAO.java:197)
+	at handlers.ManagerSetRoom.handleRequest(ManagerSetRoom.java:32)
+	at servlets.ManagerView.processRequest(ManagerView.java:39)
+	at servlets.ManagerView.doGet(ManagerView.java:50)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 1:30:37 AM org.apache.tomcat.jdbc.pool.ConnectionPool abandon
+WARNING: Connection has been abandoned PooledConnection[com.mysql.jdbc.JDBC4Connection@6598b5a7]:java.lang.Exception
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getThreadDump(ConnectionPool.java:967)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:721)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:579)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getConnection(ConnectionPool.java:174)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:111)
+	at DAO.DBComander.createConnection(DBComander.java:52)
+	at DAO.BillDAO.getBillByApplicationId(BillDAO.java:156)
+	at handlers.ManagerHandleApplication.handleRequest(ManagerHandleApplication.java:42)
+	at servlets.ManagerView.processRequest(ManagerView.java:39)
+	at servlets.ManagerView.doGet(ManagerView.java:50)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at filters.EncodingFilter.doFilter(EncodingFilter.java:27)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 30, 2012 2:03:08 AM org.apache.coyote.http11.Http11AprProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 2:03:08 AM org.apache.coyote.ajp.AjpAprProtocol pause
+INFO: Pausing Coyote AJP/1.3 on ajp-8009
+èþë 30, 2012 2:03:09 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[6-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/manager] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[3-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/Hotel] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[2-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/docs] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[4-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/examples] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[5-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/host-manager] appears to have started a thread named [[Pool-Cleaner]:Tomcat Connection Pool[1-15485686]] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/host-manager] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+èþë 30, 2012 2:03:09 AM org.apache.coyote.http11.Http11AprProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+èþë 30, 2012 2:03:09 AM org.apache.coyote.ajp.AjpAprProtocol destroy
+INFO: Stopping Coyote AJP/1.3 on ajp-8009

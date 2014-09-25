@@ -1,0 +1,20 @@
+Технологии:
+
+0. Apache Tomcat
+
+1. База данных
+1) MySQL
+2) JDBC
+3) DAO
+
+2. Паттерны/шаблоны
+1) MVC
+2) Command
+3) Factory
+4) Singleton
+
+3. Сервлеты, JSP
+
+4. Фильтры
+
+5. Логгер

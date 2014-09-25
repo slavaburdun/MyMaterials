@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>GeneralController</welcome-file>
+    </welcome-file-list>
+    <resource-ref>
+        <description>
+            Resource reference to a factory for java.sql.Connection
+            instances that may be used for talking to a particular
+            database that is configured in the server.xml file.
+        </description>
+        <res-ref-name>
+            jdbc/tourdb
+        </res-ref-name>
+        <res-type>
+            javax.sql.DataSource
+        </res-type>
+        <res-auth>
+            Container
+        </res-auth>
+    </resource-ref>
+    <filter>
+        <filter-name>EncodingFilter</filter-name>
+        <filter-class>
+            controllers.encoding.EncodingFilter
+        </filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>EncodingFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <servlet>
+        <servlet-name>Log4jInit</servlet-name>
+        <servlet-class>controllers.logging.Log4jInit</servlet-class>
+        <init-param>
+            <param-name>logfile</param-name>
+            <param-value>WEB-INF/log4j.properties</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Log4jInit</servlet-name>
+        <url-pattern>/Log4jInit</url-pattern>
+    </servlet-mapping>
+</web-app>

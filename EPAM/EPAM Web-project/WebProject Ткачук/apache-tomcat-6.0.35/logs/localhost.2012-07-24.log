@@ -1,0 +1,88 @@
+Jul 24, 2012 5:04:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 5:04:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 5:47:31 PM org.apache.catalina.core.ApplicationDispatcher invoke
+WARNING: Servlet WoodmanTasks is currently unavailable
+Jul 24, 2012 5:47:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 5:47:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 6:00:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 6:00:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 6:01:31 PM org.apache.catalina.core.ApplicationDispatcher invoke
+WARNING: Servlet Authorization is currently unavailable
+Jul 24, 2012 6:01:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 6:01:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 6:18:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 6:18:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 6:20:33 PM org.apache.catalina.core.ApplicationDispatcher invoke
+WARNING: Servlet WoodmanTasks is currently unavailable
+Jul 24, 2012 6:20:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 6:20:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 6:20:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 6:20:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 8:48:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 8:48:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 8:49:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 8:49:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 8:58:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 8:58:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 10:58:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 10:58:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 11:03:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 11:03:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 11:04:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 11:04:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 24, 2012 11:41:25 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at CRUD.DAO.DBCommand.createConnection(DBCommand.java:19)
+	at CRUD.DAO.MySQLWoodmanDAO.findByName(MySQLWoodmanDAO.java:143)
+	at handlers.AuthHandler.handleRequest(AuthHandler.java:52)
+	at controllers.Authorization.doGet(Authorization.java:28)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 24, 2012 11:41:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 24, 2012 11:41:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 24, 2012 11:42:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 24, 2012 11:42:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

@@ -1,0 +1,607 @@
+èþë 27, 2012 12:11:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 12:11:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 12:11:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 12:11:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 4:27:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 4:27:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 4:27:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 4:27:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 4:35:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 4:35:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 4:35:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 4:35:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 4:39:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('288E60A182E4C9DE5B5EC663FE53E92C')
+èþë 27, 2012 5:14:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('288E60A182E4C9DE5B5EC663FE53E92C')
+èþë 27, 2012 5:14:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('986E4A8866A64C45A924684C509C822F')
+èþë 27, 2012 5:15:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('986E4A8866A64C45A924684C509C822F', 'ertet', 'teter')
+èþë 27, 2012 5:15:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('986E4A8866A64C45A924684C509C822F', 'tetret', 'trete')
+èþë 27, 2012 5:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('986E4A8866A64C45A924684C509C822F', 'tretert', 'erteter')
+èþë 27, 2012 5:37:01 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   variable firstName
+  location: class servlets.Authorization
+	at servlets.Authorization.doGet(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:37:03 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   variable firstName
+  location: class servlets.Authorization
+	at servlets.Authorization.doGet(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:37:50 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at servlets.Authorization.doGet(Authorization.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:39:10 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at servlets.Authorization.doGet(Authorization.java:25)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:39:18 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at servlets.Authorization.doGet(Authorization.java:25)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:39:19 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at servlets.Authorization.doGet(Authorization.java:25)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:39:19 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at servlets.Authorization.doGet(Authorization.java:25)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 5:45:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 5:45:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 6:05:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 6:05:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 6:06:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('986E4A8866A64C45A924684C509C822F')
+èþë 27, 2012 6:06:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('986E4A8866A64C45A924684C509C822F', 'tetret', 'trete')
+èþë 27, 2012 6:06:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('986E4A8866A64C45A924684C509C822F', 'ertet', 'teter')
+èþë 27, 2012 6:06:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('986E4A8866A64C45A924684C509C822F', 'tretert', 'erteter')
+èþë 27, 2012 10:30:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 10:30:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 10:30:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 10:30:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 10:30:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 10:30:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 10:31:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 10:31:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 10:40:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+èþë 27, 2012 10:40:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+èþë 27, 2012 10:41:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+èþë 27, 2012 10:41:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+èþë 27, 2012 10:57:43 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:30)
+	at servlets.Authorization.processRequest(Authorization.java:32)
+	at servlets.Authorization.doGet(Authorization.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:00:05 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:30)
+	at servlets.Authorization.processRequest(Authorization.java:32)
+	at servlets.Authorization.doGet(Authorization.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:01:35 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:30)
+	at servlets.Authorization.processRequest(Authorization.java:32)
+	at servlets.Authorization.doGet(Authorization.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:02:41 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:03:30 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:04:39 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:04:42 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:04:44 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:04:46 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:04:47 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.NullPointerException
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:31)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:06:30 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:67)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:08:02 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:67)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:09:35 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:11:29 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:17:54 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:20:43 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:22:41 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+
+èþë 27, 2012 11:22:59 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.lang.IllegalStateException: Cannot forward after response has been committed
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:312)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at handlers.ClientAuthorization.handleRequest(ClientAuthorization.java:68)
+	at servlets.Authorization.processRequest(Authorization.java:33)
+	at servlets.Authorization.doGet(Authorization.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:877)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:594)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1675)
+	at java.lang.Thread.run(Thread.java:722)
+

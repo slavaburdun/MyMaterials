@@ -1,0 +1,225 @@
+Jul 22, 2012 12:36:18 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet doTask threw exception
+java.lang.NullPointerException
+	at controllers.doTask.processRequest(doTask.java:58)
+	at controllers.doTask.doGet(doTask.java:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 22, 2012 1:11:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 1:11:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 10:31:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 10:31:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 11:43:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 11:43:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 11:43:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 11:43:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 1:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 1:57:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 1:57:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 1:57:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 3:34:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 3:34:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 4:57:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 4:57:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 5:00:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 5:00:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 5:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 5:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 6:34:10 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet Authorization threw exception
+java.sql.SQLException: [http-8080-2] Timeout: Pool empty. Unable to fetch a connection in 10 seconds, none available[10 in use].
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:626)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getConnection(ConnectionPool.java:174)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:111)
+	at CRUD.DAO.DBCommand.<init>(DBCommand.java:23)
+	at CRUD.DAO.SQLDAO.<init>(SQLDAO.java:23)
+	at CRUD.DAO.MySQLWoodmanDAO.<init>(MySQLWoodmanDAO.java:23)
+	at CRUD.DAO.MySQLDAOFactory.getWoodmanDAO(MySQLDAOFactory.java:40)
+	at controllers.Authorization.loginRequest(Authorization.java:68)
+	at controllers.Authorization.doGet(Authorization.java:109)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at controllers.WoodmanTasks.doGet(WoodmanTasks.java:82)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 22, 2012 6:34:10 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet WoodmanTasks threw exception
+java.sql.SQLException: [http-8080-2] Timeout: Pool empty. Unable to fetch a connection in 10 seconds, none available[10 in use].
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:626)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.getConnection(ConnectionPool.java:174)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:111)
+	at CRUD.DAO.DBCommand.<init>(DBCommand.java:23)
+	at CRUD.DAO.SQLDAO.<init>(SQLDAO.java:23)
+	at CRUD.DAO.MySQLWoodmanDAO.<init>(MySQLWoodmanDAO.java:23)
+	at CRUD.DAO.MySQLDAOFactory.getWoodmanDAO(MySQLDAOFactory.java:40)
+	at controllers.Authorization.loginRequest(Authorization.java:68)
+	at controllers.Authorization.doGet(Authorization.java:109)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at controllers.WoodmanTasks.doGet(WoodmanTasks.java:82)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 22, 2012 6:43:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 6:43:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 6:43:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 6:43:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 7:04:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 7:04:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 7:05:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 7:05:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 7:36:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 7:36:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 7:36:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 7:36:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 7:40:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 7:40:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 7:40:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 7:40:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 9:14:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 9:14:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 10:48:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 10:48:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jul 22, 2012 10:48:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Marking servlet DoTask as unavailable
+Jul 22, 2012 10:48:56 PM org.apache.catalina.core.ApplicationContext log
+SEVERE: Error loading WebappClassLoader
+  context: /WebParkSystem
+  delegate: false
+  repositories:
+    /WEB-INF/classes/
+----------> Parent Classloader:
+org.apache.catalina.loader.StandardClassLoader@dca7d0
+ controllers.DoTask
+java.lang.ClassNotFoundException: controllers.DoTask
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1680)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1526)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1128)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:827)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:129)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 22, 2012 10:48:56 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Allocate exception for servlet DoTask
+java.lang.ClassNotFoundException: controllers.DoTask
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1680)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1526)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1128)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:827)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:129)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 22, 2012 11:02:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jul 22, 2012 11:02:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jul 22, 2012 11:57:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jul 22, 2012 11:57:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

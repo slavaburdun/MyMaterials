@@ -1,0 +1,26 @@
+h2 {
+    top: 40%;
+    font-size:220%;
+    color: #0079b6;
+    font-weight: normal;
+    letter-spacing: -.05em;
+    margin: .6em 0;
+    position: relative;	
+}
+#list3 
+{
+    font-family: ‘Times New Roman’, Times, serif;
+    margin-left: 40%;
+    margin-right: auto;
+    text-align: left;
+}
+#list3 ul 
+{ 
+    list-style-image: url("../Lists/images/arrow.png"); 
+    color:#050505; 
+    font-size:18px; 
+}
+#list3 ul li 
+{ 
+    line-height:30px; 
+}

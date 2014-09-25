@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib> 
+    <tlibversion>1.0</tlibversion>
+    <jspversion>1.1</jspversion>
+    <shortname>input</shortname>
+    <info>Sample taglib</info>
+    <uri>/WEB-INF/tlds/taginput</uri>
+    <tag>
+        <name>display</name>
+        <tagclass>view.customtag.TagWithParameter</tagclass>
+        <info>Substring function.</info>
+        <attribute>
+            <name>input</name>
+            <required>true</required>
+        </attribute>
+    </tag>
+</taglib> 

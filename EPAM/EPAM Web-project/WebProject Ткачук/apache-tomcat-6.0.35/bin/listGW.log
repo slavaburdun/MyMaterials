@@ -1,0 +1,273 @@
+25/07/2012 7:17 [main] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:17 [http-8080-3] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:17 [http-8080-2] INFO - <Owner has logined>
+25/07/2012 7:17 [http-8080-2] INFO - <Report 177 was confirmed>
+25/07/2012 7:17 [http-8080-2] INFO - <Report 169 was confirmed>
+25/07/2012 7:17 [http-8080-2] INFO - <Report 168 was confirmed>
+25/07/2012 7:17 [http-8080-2] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:17 [http-8080-2] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:17 [http-8080-2] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:18 [http-8080-2] INFO - <Owner has setted task to john M>
+25/07/2012 7:18 [http-8080-2] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:18 [http-8080-2] INFO - <Owner has setted task to john M>
+25/07/2012 7:18 [http-8080-3] INFO - <Bart Simpson has done 153 task>
+25/07/2012 7:18 [http-8080-3] INFO - <Bart Simpson has written report 179>
+25/07/2012 7:19 [http-8080-3] INFO - <Woodman has logined. id, name: 2, john M>
+25/07/2012 7:20 [http-8080-2] INFO - <john M has done 158 task>
+25/07/2012 7:20 [http-8080-2] INFO - <john M has written report 180>
+25/07/2012 7:20 [http-8080-2] INFO - <john M has done 157 task>
+25/07/2012 7:20 [http-8080-2] INFO - <john M has written report 181>
+25/07/2012 7:20 [http-8080-4] INFO - <Report 179 was confirmed>
+25/07/2012 7:22 [http-8080-4] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:22 [http-8080-4] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:22 [http-8080-1] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:22 [http-8080-4] INFO - <Owner has logined>
+25/07/2012 7:22 [http-8080-4] INFO - <Report 181 was confirmed>
+25/07/2012 7:22 [http-8080-3] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:22 [http-8080-4] INFO - <Owner has logined>
+25/07/2012 7:23 [http-8080-4] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:28 [http-8080-3] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:29 [http-8080-3] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:29 [http-8080-4] INFO - <Owner has logined>
+25/07/2012 7:29 [http-8080-4] ERROR - <DAOException on set task.>
+25/07/2012 7:29 [http-8080-4] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 7:30 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:30 [http-8080-4] INFO - <Owner has logined>
+25/07/2012 7:30 [http-8080-1] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:30 [http-8080-1] INFO - <Bart Simpson has done 161 task>
+25/07/2012 7:30 [http-8080-1] INFO - <Bart Simpson has written report 182>
+25/07/2012 7:30 [http-8080-3] INFO - <Woodman has logined. id, name: 2, john M>
+25/07/2012 7:30 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:31 [http-8080-2] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:31 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:31 [http-8080-2] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:31 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:33 [http-8080-2] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:37 [http-8080-2] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:41 [http-8080-2] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:42 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:42 [http-8080-4] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:42 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:42 [http-8080-4] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:42 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:42 [http-8080-4] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:42 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:42 [http-8080-4] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 7:43 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:43 [http-8080-4] FATAL - <Can't create database connection>
+25/07/2012 7:43 [http-8080-4] FATAL - <Can't create database connection>
+25/07/2012 7:43 [http-8080-4] FATAL - <Can't create database connection>
+25/07/2012 7:43 [http-8080-1] FATAL - <Can't create database connection>
+25/07/2012 7:44 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:44 [http-8080-4] INFO - <Load-onstart-up Servlet>
+25/07/2012 7:45 [http-8080-4] FATAL - <Can't create database connection>
+25/07/2012 8:28 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:34 [http-8080-4] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:40 [http-8080-4] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:40 [http-8080-4] FATAL - <Can't create database connection>
+25/07/2012 8:41 [main] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:41 [http-8080-5] INFO - <Owner has logined>
+25/07/2012 8:41 [http-8080-5] INFO - <Owner has setted task to Bart Simpson>
+25/07/2012 8:42 [http-8080-5] INFO - <Report 170 was confirmed>
+25/07/2012 8:42 [http-8080-5] ERROR - <DAOException on confirm report. User gave bad params>
+25/07/2012 8:45 [http-8080-1] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 8:46 [http-8080-1] INFO - <Report 172 was confirmed>
+25/07/2012 8:54 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:57 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:59 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 8:59 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+25/07/2012 9:08 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 9:09 [http-8080-1] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 9:10 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 9:10 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+25/07/2012 9:11 [http-8080-1] INFO - <Load-onstart-up Servlet>
+25/07/2012 9:11 [http-8080-5] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+25/07/2012 9:12 [http-8080-5] INFO - <Bart Simpson has done 163 task>
+25/07/2012 9:12 [http-8080-5] INFO - <Bart Simpson has written report 183>
+25/07/2012 9:12 [http-8080-1] INFO - <Woodman has logined. id, name: 2, john M>
+25/07/2012 9:12 [http-8080-3] INFO - <Owner has logined>
+25/07/2012 9:12 [http-8080-3] INFO - <Owner has setted task to john M>
+25/07/2012 11:29 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:18 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:21 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:25 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:30 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:32 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:33 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:34 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:36 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:38 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:40 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:40 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:41 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:41 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:42 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:43 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:43 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:44 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:44 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:45 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:45 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:46 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:48 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:51 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:51 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:53 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:53 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:59 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 12:59 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:00 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:01 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:01 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:01 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:02 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:02 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:03 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:06 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:07 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:07 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:09 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:13 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:15 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:18 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:23 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:27 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:29 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:29 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:30 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:30 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:33 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:37 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:37 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:37 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:39 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:40 [http-8080-2] FATAL - <Can't create database connection>
+26/07/2012 1:43 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:46 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:46 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:49 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:49 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:03 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:18 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:19 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:20 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:25 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:26 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:27 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:28 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:30 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:31 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:33 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:33 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:38 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:41 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:43 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:43 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:44 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:44 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:45 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:45 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:45 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:46 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:47 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:48 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:48 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:49 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:50 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:51 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:51 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:54 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:57 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:02 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:10 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:11 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:14 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:16 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:17 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:26 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:28 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:28 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:28 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:28 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:28 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:31 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:33 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:34 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:36 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:37 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:37 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:38 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:38 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:41 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:41 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:41 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:42 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:43 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:45 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:45 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:45 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:45 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:47 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:48 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:49 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:49 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:49 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:49 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:51 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:51 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:51 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:51 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:52 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:52 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:54 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:55 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:56 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:57 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:58 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:59 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 3:59 [http-8080-3] INFO - <Load-onstart-up Servlet>
+26/07/2012 5:56 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 5:56 [http-8080-5] INFO - <Load-onstart-up Servlet>
+26/07/2012 5:56 [http-8080-3] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+26/07/2012 5:56 [http-8080-6] INFO - <Owner has logined>
+26/07/2012 5:57 [http-8080-6] INFO - <Owner has setted task to Bart Simpson>
+26/07/2012 5:57 [http-8080-6] INFO - <Owner has setted task to Bart Simpson>
+26/07/2012 5:57 [http-8080-6] INFO - <Owner has setted task to Bart Simpson>
+26/07/2012 5:57 [http-8080-6] INFO - <Report 174 was confirmed>
+26/07/2012 5:57 [http-8080-3] INFO - <Bart Simpson has done 172 task>
+26/07/2012 5:57 [http-8080-3] INFO - <Bart Simpson has written report 184>
+26/07/2012 5:57 [http-8080-6] INFO - <Report 184 was confirmed>
+26/07/2012 1:40 [http-8080-1] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:41 [http-8080-2] FATAL - <Can't create database connection>
+26/07/2012 1:42 [http-8080-2] FATAL - <Can't create database connection>
+26/07/2012 1:42 [http-8080-2] FATAL - <Can't create database connection>
+26/07/2012 1:42 [http-8080-4] FATAL - <Can't create database connection>
+26/07/2012 1:44 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:44 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:45 [http-8080-2] INFO - <Load-onstart-up Servlet>
+26/07/2012 1:45 [http-8080-2] INFO - <Woodman has logined. id, name: 3, Bart Simpson>
+26/07/2012 1:45 [http-8080-2] INFO - <Bart Simpson has done 1 task>
+26/07/2012 1:46 [http-8080-2] INFO - <Bart Simpson has written report 2>
+26/07/2012 1:46 [http-8080-1] INFO - <Owner has logined>
+26/07/2012 1:46 [http-8080-1] INFO - <Report 2 was confirmed>
+26/07/2012 2:44 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+26/07/2012 2:46 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 4:45 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+26/07/2012 4:45 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO - <Load-onstart-up Servlet>
+26/07/2012 4:48 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 9:00 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 9:29 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 10:21 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 11:26 [main] INFO - <Load-onstart-up Servlet>
+26/07/2012 11:27 [main] INFO - <Load-onstart-up Servlet>

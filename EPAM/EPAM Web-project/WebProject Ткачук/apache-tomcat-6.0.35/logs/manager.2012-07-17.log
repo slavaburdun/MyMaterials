@@ -1,0 +1,12 @@
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context592304434141201414.xml'
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebApplication1'

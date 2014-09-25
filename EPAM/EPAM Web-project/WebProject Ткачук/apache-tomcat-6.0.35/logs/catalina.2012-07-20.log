@@ -1,0 +1,1248 @@
+Jul 20, 2012 12:16:50 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:33:26 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 9:33:28 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:33:28 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:33:28 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:34:33 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:34:33 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:34:33 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:35:49 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:35:49 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:35:49 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:20:06 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.7.0_04\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\vagrant\vagrant\bin;.
+Jul 20, 2012 11:20:07 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 11:20:07 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1297 ms
+Jul 20, 2012 11:20:07 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 20, 2012 11:20:07 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Jul 20, 2012 11:20:07 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor host-manager.xml
+Jul 20, 2012 11:20:08 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor manager.xml
+Jul 20, 2012 11:20:08 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:20:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Jul 20, 2012 11:20:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Jul 20, 2012 11:20:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Jul 20, 2012 11:20:09 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 11:20:09 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 20, 2012 11:20:09 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Jul 20, 2012 11:20:09 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2511 ms
+Jul 20, 2012 11:20:12 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:20:12 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:20:12 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:22:17 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/WebParkSystem] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Jul 20, 2012 11:22:18 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:22:18 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:22:18 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:27:38 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:27:38 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:27:38 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:31:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:31:31 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:31:31 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:33:44 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:33:44 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:33:45 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:42:21 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:42:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:42:22 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:45:45 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:45:45 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:45:45 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:49:29 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:49:29 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:49:29 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:50:24 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:50:24 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:50:24 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:56:43 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:56:44 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:56:44 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 12:01:35 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:04:27 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:05:04 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:05:51 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:06:37 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:08:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:24:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:25:33 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:27:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 12:27:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 12:27:26 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 12:27:26 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:09:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:09:06 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:09:06 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:11:38 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:11:38 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:11:38 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:16:59 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:16:59 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:16:59 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:21:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:21:44 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/WebParkSystem]
+Jul 20, 2012 2:21:46 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:22:26 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:24:03 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:24:05 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/WebParkSystem]
+Jul 20, 2012 2:24:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:24:09 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:24:09 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:24:09 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:25:54 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:26:17 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:26:17 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:26:17 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:31:20 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:31:20 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:31:20 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:31:56 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:31:58 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 2:32:02 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:32:02 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:32:02 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:35:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:35:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:35:03 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:44:25 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:44:25 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:44:25 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:45:34 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:45:34 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:45:34 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:46:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:46:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:46:26 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:46:26 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:46:42 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:46:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:46:42 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:47:15 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 2:47:16 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:47:17 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:47:17 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:47:17 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:48:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:48:06 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:48:06 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:48:37 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:48:37 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:48:37 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:51:23 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:51:23 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:51:24 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:51:36 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:51:36 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:51:37 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:52:05 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:52:05 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:52:05 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:52:48 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:52:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:52:48 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:54:57 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:54:58 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:54:58 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:54:58 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 2:55:09 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 2:55:09 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 2:55:09 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:33:21 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:35:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:36:21 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:36:27 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 3:36:27 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:36:27 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:36:27 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:37:36 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:38:05 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:38:40 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:38:43 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:40:36 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:41:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 3:44:55 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:44:55 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:44:55 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:45:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:45:28 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:45:28 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:45:48 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:45:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:45:48 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:46:35 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:46:35 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:46:35 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 3:48:00 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 3:48:01 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 3:48:01 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:23:11 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:25:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:26:20 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:26:24 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:28:15 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:28:18 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:28:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:29:20 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:29:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:30:34 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:43:20 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 4:43:21 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:43:21 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:43:21 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:43:42 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:43:43 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:43:43 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:44:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:44:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:44:03 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:45:08 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:45:08 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:45:08 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:49:37 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:49:42 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:49:55 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:03 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:22 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:31 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:38 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 4:50:57 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:50:57 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:50:57 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:54:37 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:54:37 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:54:37 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 4:56:30 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 4:56:30 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 4:56:30 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:01:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:01:06 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:01:07 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:01:34 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:01:34 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:01:34 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:02:12 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:02:12 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:02:12 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:02:55 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:02:55 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:02:55 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:06:50 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:06:50 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:06:50 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:08:11 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:08:11 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:08:11 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:15:14 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:15:14 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:15:14 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:24:37 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 5:29:02 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 5:33:39 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 5:33:57 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 5:45:40 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 5:45:41 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:45:41 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:45:41 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:46:49 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:46:49 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:46:49 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:48:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 5:48:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 5:48:03 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 5:50:02 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 5:50:03 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 20, 2012 5:50:03 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 8:42:01 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.7.0_04\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\vagrant\vagrant\bin;.
+Jul 20, 2012 8:42:02 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 8:42:02 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1940 ms
+Jul 20, 2012 8:42:02 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 20, 2012 8:42:02 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Jul 20, 2012 8:42:02 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor host-manager.xml
+Jul 20, 2012 8:42:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor manager.xml
+Jul 20, 2012 8:42:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 8:42:03 PM org.apache.catalina.core.StandardContext resourcesStart
+SEVERE: Error starting static Resources
+java.lang.IllegalArgumentException: Document base C:\Users\brainless\Documents\NetBeansProjects\WebParkSystem\build\web does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:142)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4320)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4489)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:799)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:779)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:601)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:675)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:601)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:502)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1317)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:324)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:142)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+
+Jul 20, 2012 8:42:03 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error in resourceStart()
+Jul 20, 2012 8:42:03 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error getConfigured
+Jul 20, 2012 8:42:03 PM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/WebParkSystem] startup failed due to previous errors
+Jul 20, 2012 8:42:03 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has not been started
+Jul 20, 2012 8:42:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Jul 20, 2012 8:42:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Jul 20, 2012 8:42:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Jul 20, 2012 8:42:05 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 20, 2012 8:42:05 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 20, 2012 8:42:05 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/68  config=null
+Jul 20, 2012 8:42:05 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3201 ms
+Jul 20, 2012 8:42:07 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has not been started
+Jul 20, 2012 8:42:07 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 8:42:08 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 8:42:08 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 8:49:16 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:49:16 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/WebParkSystem] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Jul 20, 2012 8:50:27 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:50:47 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:51:18 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:51:27 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:53:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:55:13 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 8:57:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:00:32 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:08:29 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:08:54 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:09:35 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:09:35 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:09:35 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:10:53 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:10:53 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:10:53 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:13:47 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:18:21 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:19:19 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:20:18 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Jul 20, 2012 9:20:19 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:20:19 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:20:19 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:26:21 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:28:14 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:29:28 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:30:24 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:31:53 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:35:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:35:10 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:35:10 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:35:11 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:43:20 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:43:20 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:43:20 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:47:28 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:48:15 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:48:29 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:49:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 9:50:39 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:50:39 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:50:39 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 9:58:10 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 9:58:10 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 9:58:10 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 10:15:14 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:15:15 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:15:18 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/WebParkSystem]
+Jul 20, 2012 10:17:08 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:19:18 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:20:40 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:20:44 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:20:52 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:21:59 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:25:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 10:58:54 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:02:35 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:08:58 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:08:58 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:08:58 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:09:16 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:11:05 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:11:05 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:11:05 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:11:06 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:11:30 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:12:43 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:14:23 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:15:38 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:15:38 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:15:38 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:15:39 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:15:42 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:15:43 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:15:46 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:16:13 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:16:17 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:16:17 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:16:17 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:27:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:28:04 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:28:16 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:28:27 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:29:44 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:29:48 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:30:42 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:31:17 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:31:57 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:33:42 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:35:38 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:41:22 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:66)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:46:37 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:47:17 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:51:22 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:54:46 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:57:33 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:57:41 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:57:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:57:42 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:57:51 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+
+Jul 20, 2012 11:59:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WebParkSystem] has started
+Jul 20, 2012 11:59:40 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/WebParkSystem]
+Jul 20, 2012 11:59:40 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebParkSystem.xml
+Jul 20, 2012 11:59:40 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebParkSystem] has already been started
+Jul 20, 2012 11:59:47 PM CRUD.DAO.MySQLTaskDAO findById
+SEVERE: null
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'unid_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at CRUD.DAO.DBCommand.getResultSet(DBCommand.java:37)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:59)
+	at CRUD.DAO.MySQLTaskDAO.findById(MySQLTaskDAO.java:23)
+	at controllers.doTask.processRequest(doTask.java:42)
+	at controllers.doTask.doGet(doTask.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:722)
+

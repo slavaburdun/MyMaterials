@@ -1,0 +1,32 @@
+Jul 17, 2012 5:27:41 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.7.0_04\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\vagrant\vagrant\bin;.
+Jul 17, 2012 5:27:44 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 17, 2012 5:27:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 4279 ms
+Jul 17, 2012 5:27:44 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 17, 2012 5:27:44 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Jul 17, 2012 5:27:45 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Jul 17, 2012 5:27:45 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Jul 17, 2012 5:27:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory host-manager
+Jul 17, 2012 5:27:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory manager
+Jul 17, 2012 5:27:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Jul 17, 2012 5:27:46 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 17, 2012 5:27:47 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 17, 2012 5:27:47 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/71  config=null
+Jul 17, 2012 5:27:47 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2379 ms
+Jul 17, 2012 5:27:49 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor WebApplication1.xml
+Jul 17, 2012 5:27:49 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/WebApplication1] has already been started

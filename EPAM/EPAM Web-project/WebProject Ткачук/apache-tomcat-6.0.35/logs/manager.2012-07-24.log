@@ -1,0 +1,1406 @@
+Jul 24, 2012 12:00:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:00:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:01:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:01:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:02:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:02:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:02:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:02:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7288295493335347211.xml'
+Jul 24, 2012 12:02:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7192476071273075741.xml'
+Jul 24, 2012 12:06:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:10:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:10:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:10:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:10:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7962697270727079664.xml'
+Jul 24, 2012 12:10:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:11:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:11:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:11:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:11:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:12:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:12:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:12:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:12:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8407911212856005176.xml'
+Jul 24, 2012 12:12:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:14:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:14:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:14:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:14:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:16:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:16:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:17:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:17:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:17:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:17:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5932866884596132228.xml'
+Jul 24, 2012 12:17:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:22:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:22:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:22:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:22:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:22:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:23:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:23:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:24:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:24:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:24:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:25:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:25:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:25:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:25:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:25:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:25:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:25:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:25:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:26:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:26:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:26:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:26:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:26:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:26:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:28:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:28:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:28:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:28:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:29:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:29:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:31:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:31:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:32:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:32:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:32:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:32:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:34:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:45:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:45:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:45:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:45:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:45:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:46:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:46:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:47:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:47:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:47:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:47:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:47:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:47:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:47:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:47:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:48:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:48:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:49:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:49:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:49:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:49:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:49:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:49:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:49:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:50:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:50:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:50:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context4725429021558281481.xml'
+Jul 24, 2012 12:50:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:50:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:50:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:50:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:50:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8787008009631483120.xml'
+Jul 24, 2012 12:50:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:50:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:50:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:50:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context2616460062236135975.xml'
+Jul 24, 2012 12:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:51:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:51:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:51:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:51:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5485139658277085532.xml'
+Jul 24, 2012 12:51:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:53:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:53:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:53:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:53:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context641158401276664719.xml'
+Jul 24, 2012 12:53:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:55:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:55:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 12:55:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:55:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:55:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:55:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context865700966463630229.xml'
+Jul 24, 2012 12:55:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:55:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:55:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:55:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:55:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context2377200504844915752.xml'
+Jul 24, 2012 12:55:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:57:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:57:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:57:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:57:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:57:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:57:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6911086806382368169.xml'
+Jul 24, 2012 12:57:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:59:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 12:59:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 12:59:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:59:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:59:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:59:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context3050858421659797467.xml'
+Jul 24, 2012 12:59:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:03:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:03:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:03:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:03:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6126287837971600581.xml'
+Jul 24, 2012 1:03:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:09:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 1:09:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 1:09:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:09:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:09:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context158120554833223037.xml'
+Jul 24, 2012 1:09:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:35:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:35:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context3765664839805873205.xml'
+Jul 24, 2012 1:35:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:39:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:39:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:42:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:42:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:43:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:43:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:43:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:43:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:43:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:43:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context2799349551906558113.xml'
+Jul 24, 2012 1:43:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:46:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 1:46:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 1:46:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:46:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:46:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:46:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context340032875345887939.xml'
+Jul 24, 2012 1:46:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:48:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 1:48:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 1:48:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:48:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:48:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:48:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5650082138291221541.xml'
+Jul 24, 2012 1:48:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:51:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 1:51:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 1:51:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:51:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:51:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:51:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:51:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 1:51:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6177961335695789512.xml'
+Jul 24, 2012 1:51:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 2:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5073614483512162477.xml'
+Jul 24, 2012 2:05:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 2:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 2:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 2:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 2:11:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context2398487738507322709.xml'
+Jul 24, 2012 2:11:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 2:14:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 2:14:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 2:14:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:14:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:14:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 2:14:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context4048970880408845700.xml'
+Jul 24, 2012 2:14:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 2:55:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context894038699542513584.xml'
+Jul 24, 2012 2:55:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 3:35:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:35:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:35:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 3:35:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context1806894293843250896.xml'
+Jul 24, 2012 3:35:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 3:35:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:35:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:36:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:36:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:36:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:36:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:36:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:36:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:36:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:36:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:37:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:37:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:39:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:39:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:39:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:39:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:39:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:39:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:40:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:40:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:40:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 3:40:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6091171762559275791.xml'
+Jul 24, 2012 3:40:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 3:46:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context1864894857289410986.xml'
+Jul 24, 2012 3:46:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 3:52:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 3:52:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 3:52:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:54:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:55:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:55:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:55:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:55:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:55:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:55:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:55:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:55:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:57:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:57:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 3:57:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:57:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 3:57:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 3:57:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5071838038832966270.xml'
+Jul 24, 2012 3:57:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 4:00:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context140170756291867721.xml'
+Jul 24, 2012 4:00:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 4:02:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 4:02:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 4:02:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:02:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:02:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 4:02:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context1711973453701970752.xml'
+Jul 24, 2012 4:03:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 4:03:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 4:03:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:03:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:03:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 4:03:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6647578090137112227.xml'
+Jul 24, 2012 4:03:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 4:04:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:04:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:04:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:04:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 4:04:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8688784985688857642.xml'
+Jul 24, 2012 4:04:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 9:17:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 9:17:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 9:17:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:17:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:17:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 9:17:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8871440748611320968.xml'
+Jul 24, 2012 9:17:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 9:28:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:28:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:28:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:28:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:28:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:28:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:29:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:29:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:30:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:30:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:30:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:30:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:30:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:30:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:31:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:31:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:31:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:31:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:31:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:31:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:32:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:32:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:33:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:33:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:33:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:33:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:34:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:34:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 9:34:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:34:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:34:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 9:34:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context9068336474985706893.xml'
+Jul 24, 2012 9:34:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 9:53:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 9:53:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 9:53:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:53:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 9:53:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 9:53:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5724947314559449549.xml'
+Jul 24, 2012 9:53:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 10:57:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 10:57:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:09:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:09:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 11:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 11:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:35:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:38:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 11:38:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 11:38:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:38:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:38:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 11:38:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context2613469000136808707.xml'
+Jul 24, 2012 11:38:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:01:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:01:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:01:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:01:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6734882526151328804.xml'
+Jul 24, 2012 12:01:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 12:12:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:12:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 12:12:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 12:12:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context3820849949171620843.xml'
+Jul 24, 2012 12:12:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 1:24:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:24:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:24:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:24:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 1:27:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 1:27:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 2:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 2:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 2:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:06:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 2:07:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 2:07:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:47:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:47:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:50:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:50:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:52:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:52:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:52:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:52:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:54:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:54:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:58:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:58:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 4:59:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 4:59:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:01:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:01:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:01:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:01:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7446535045156948678.xml'
+Jul 24, 2012 5:01:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:03:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6386716812543736312.xml'
+Jul 24, 2012 5:03:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:04:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:04:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context1848417593847976693.xml'
+Jul 24, 2012 5:04:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:15:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:15:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:17:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:17:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:18:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:18:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:18:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:18:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context9072820975819738798.xml'
+Jul 24, 2012 5:18:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:30:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:30:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:30:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:30:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:31:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:31:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:31:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:31:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:31:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:31:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:31:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:31:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7761402669766473188.xml'
+Jul 24, 2012 5:31:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:35:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:35:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:35:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:35:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7959142818291299162.xml'
+Jul 24, 2012 5:35:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:42:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:44:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:44:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:44:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:44:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 5:45:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:45:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:45:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:45:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context1820544901622082508.xml'
+Jul 24, 2012 5:45:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 5:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 5:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 5:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7964960160590267862.xml'
+Jul 24, 2012 5:46:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 6:00:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 6:00:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 6:00:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:00:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:00:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 6:00:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8849237518073360170.xml'
+Jul 24, 2012 6:00:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 6:18:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 6:18:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 6:18:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:18:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:18:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 6:19:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context6086388297093405746.xml'
+Jul 24, 2012 6:19:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context8341347350839815665.xml'
+Jul 24, 2012 6:20:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 6:33:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:33:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:33:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 6:49:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 6:49:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 7:02:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 7:02:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:03:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:03:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:20:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:20:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:20:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:20:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:22:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:22:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:33:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:33:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:34:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:34:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:34:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:34:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:35:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:35:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:35:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:35:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:39:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:39:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 8:47:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 8:47:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 10:59:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 10:59:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 10:59:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 10:59:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 10:59:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 10:59:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context7883940691650492088.xml'
+Jul 24, 2012 10:59:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 11:01:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:01:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:01:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:01:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:01:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 11:01:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context84095212238036512.xml'
+Jul 24, 2012 11:01:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 11:04:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context5353449576801023868.xml'
+Jul 24, 2012 11:04:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 11:11:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:11:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:11:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:11:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:18:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:18:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:19:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:19:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:19:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:19:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:21:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:21:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:22:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:22:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:23:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:23:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:24:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:24:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:25:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:25:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:26:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:26:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:29:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:29:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:29:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:29:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:30:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:30:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:32:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:32:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:35:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:35:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:35:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:35:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:38:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:41:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:41:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:41:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 11:41:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context987345704402160534.xml'
+Jul 24, 2012 11:41:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebParkSystem'
+Jul 24, 2012 11:42:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/BRAINL~1/AppData/Local/Temp/context771576133545177242.xml'
+Jul 24, 2012 11:42:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/WebParkSystem'
+Jul 24, 2012 11:48:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:48:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'
+Jul 24, 2012 11:50:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 24, 2012 11:50:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/WebParkSystem'

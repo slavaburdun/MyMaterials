@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Document   : index
+    Created on : 1 груд 2010, 11:34:22
+    Author     : Family
+-->
+    <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+
+    <jsp:directive.page contentType="text/html" pageEncoding="UTF-8"/>
+
+    <!-- any content can be specified here, e.g.: -->
+    <html>
+        <head>
+            <title>Index JSP</title>
+        </head>
+        <body>
+            <a href="controller">Main Controller</a>
+        </body>
+    </html>
+
+</jsp:root>
