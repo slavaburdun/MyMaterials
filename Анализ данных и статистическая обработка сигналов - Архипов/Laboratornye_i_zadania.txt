@@ -1,0 +1,7 @@
+
+
+Порядок лабораторных работ:
+3,5,10,6,7
+
+10.1.17.1/pub/analiz_dannih/
+10.1.17.1/pub/analiz_dannih/zadaniya/
